@@ -1,0 +1,12 @@
+{
+  "name": "prompt-arcade",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Eight playable worlds and 24 missions for practicing clear instructions, constraints, iteration, and evidence.",
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "dev": "node scripts/serve.cjs",
+    "test": "node scripts/run-tests.cjs"
+  },
+  "engines": { "node": ">=18" }
+}
